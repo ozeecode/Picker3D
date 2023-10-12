@@ -1,7 +1,7 @@
 # Picker3D
 
 
-[![APK Download]()](https://github.com/ozeecode/Picker3D/releases/latest) 
+[APK Download](https://github.com/ozeecode/Picker3D/releases/latest) 
 
 
 
