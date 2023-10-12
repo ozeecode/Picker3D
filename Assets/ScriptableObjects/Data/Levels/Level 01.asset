@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 665823751e95f4343b740ec7dc8822aa, type: 3}
+  m_Name: Level 01
+  m_EditorClassIdentifier: 
+  Stages:
+  - GateRequireAmount: 10
+    WasteAmount: 14
+    collectableGroups:
+    - {fileID: 5601371656227079351, guid: 2f49a388d197dab48b34b0c202fbcd52, type: 3}
+    - {fileID: 4030376631276135141, guid: 3be6919ab8c7aff44b52bede48a4650f, type: 3}
+    - {fileID: 6262543047060418981, guid: 87cbe4d94dc835046a3157920d93b808, type: 3}
+  - GateRequireAmount: 15
+    WasteAmount: 15
+    collectableGroups:
+    - {fileID: 4030376631276135141, guid: 3be6919ab8c7aff44b52bede48a4650f, type: 3}
+    - {fileID: 4030376631276135141, guid: 3be6919ab8c7aff44b52bede48a4650f, type: 3}
+    - {fileID: 4030376631276135141, guid: 3be6919ab8c7aff44b52bede48a4650f, type: 3}
+  - GateRequireAmount: 20
+    WasteAmount: 18
+    collectableGroups:
+    - {fileID: 5601371656227079351, guid: 2f49a388d197dab48b34b0c202fbcd52, type: 3}
+    - {fileID: 5443958138709070422, guid: e229ec6fa161a494eaa308865cbc9b39, type: 3}
+    - {fileID: 4030376631276135141, guid: 3be6919ab8c7aff44b52bede48a4650f, type: 3}
+    - {fileID: 6262543047060418981, guid: 87cbe4d94dc835046a3157920d93b808, type: 3}
+    - {fileID: 4030376631276135141, guid: 3be6919ab8c7aff44b52bede48a4650f, type: 3}
