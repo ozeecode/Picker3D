@@ -1600,11 +1600,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 95567b678d6fc004c843dc63ca203003, type: 2}
   - {fileID: 11400000, guid: 4911a3e171e5973409aea2c2f249e1ac, type: 2}
   - {fileID: 11400000, guid: 633694e9331529c46a00f5d5af3d4fb0, type: 2}
-  - {fileID: 11400000, guid: d7f0bd01a3e60b642abcd2ecb41e1bcd, type: 2}
-  - {fileID: 11400000, guid: f95c1d0dc9d94024aaf15ea8ef907f1a, type: 2}
-  - {fileID: 11400000, guid: 1b7e9334ff935654fa3e5d4c3456d0a2, type: 2}
-  - {fileID: 11400000, guid: 1d3f42be4d4e5f14c9826cf3b7470359, type: 2}
-  - {fileID: 11400000, guid: 079c6ab4affc3e546876ed77928c0657, type: 2}
+  - {fileID: 11400000, guid: 9a5a9c95edac40f40a85a1da16eae75c, type: 2}
   collectableGroups:
   - {fileID: 5601371656227079351, guid: 2f49a388d197dab48b34b0c202fbcd52, type: 3}
   - {fileID: 1671282895293361953, guid: 47f6fb1672f8096438772dfde078d0c8, type: 3}

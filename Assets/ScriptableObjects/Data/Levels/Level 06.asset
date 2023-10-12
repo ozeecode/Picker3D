@@ -28,11 +28,11 @@ MonoBehaviour:
     - {fileID: 6262543047060418981, guid: 87cbe4d94dc835046a3157920d93b808, type: 3}
     - {fileID: 6262543047060418981, guid: 87cbe4d94dc835046a3157920d93b808, type: 3}
     - {fileID: 378241098005362489, guid: aad70c3dd6a4b574fa1a2081a6f09ccc, type: 3}
-  - GateRequireAmount: 30
-    WasteAmount: 5
+  - GateRequireAmount: 20
+    WasteAmount: 16
     collectableGroups:
     - {fileID: 378241098005362489, guid: aad70c3dd6a4b574fa1a2081a6f09ccc, type: 3}
     - {fileID: 6262543047060418981, guid: 87cbe4d94dc835046a3157920d93b808, type: 3}
-    - {fileID: 5601371656227079351, guid: 2f49a388d197dab48b34b0c202fbcd52, type: 3}
+    - {fileID: 6893629632018465710, guid: 2301dd2635ace244c82b1f388205329d, type: 3}
     - {fileID: 6262543047060418981, guid: 87cbe4d94dc835046a3157920d93b808, type: 3}
     - {fileID: 378241098005362489, guid: aad70c3dd6a4b574fa1a2081a6f09ccc, type: 3}
